@@ -16,5 +16,13 @@ LSTM-CNN model.
 
 PROPOSED MODEL
 
+![Preprocess](https://user-images.githubusercontent.com/77354495/126188115-662fe5e5-6578-4abe-a222-d6bf544cfea1.png)
+![Model Build up](https://user-images.githubusercontent.com/77354495/126188121-534ed1c7-51de-40c1-90b7-0baf3f2cdefe.png)
+![Overall Process](https://user-images.githubusercontent.com/77354495/126188136-7c83d812-9713-4c55-8947-b4bf504af344.png)
+
+Result Analysis:
+
+![TrainTime](https://user-images.githubusercontent.com/77354495/126188177-02f8405d-36f7-4521-a8d5-55d5d16721b4.PNG)
+![Summary](https://user-images.githubusercontent.com/77354495/126188180-a232bdd8-9c9d-42fc-9cd7-3f85e5680c6c.PNG)
 
 
